@@ -14,7 +14,7 @@
 > 🎓 CSE Student (AI/ML) |  Passionate Software Developer  
 > 💬 Currently working on: **LLM Projects & GenAI Applications**  
 > 🌱 Exploring: **AI, GenAI, Natural Language Processing**  
-> 🧾 [**View My Resume**](https://github.com/anushka027/anushka027/blob/main/ANUSHKA%20SINGH%20CV.pdf)
+> 🧾 [**View My Resume**](https://drive.google.com/file/d/1hSZO9t6TltzjzScMaymXqRO5XtLvbxvW/view?usp=sharing)
 ---
 <h3><b>Connect with Me</b></h3>
 
