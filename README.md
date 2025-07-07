@@ -72,4 +72,4 @@
 ---
 
 <p align="center"><b>✨ Let's connect, collaborate, and create something amazing together!</b></p>
-<p align="center"><i>#Java #AI #GenAI #FullStackDev #LLMs</i></p>
+<p align="center"><i>#Java #AI #OpenAI #FullStackDev #LLMs</i></p>
