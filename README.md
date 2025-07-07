@@ -14,7 +14,7 @@
 > 🎓 CSE Student (AI/ML) |  Passionate Software Developer  
 > 💬 Currently working on: **LLM Projects & OpenAI Applications**  
 > 🌱 Exploring: **AI, GenAI, Natural Language Processing**  
-> 🧾 [**View My Resume**](https://drive.google.com/file/d/1Arj244ytXrmkGspcl8OJYtNvkGH35w4b/view?usp=drive_link)
+> 🧾 [**View My Resume**](https://drive.google.com/file/d/1D-sMzXpKGh44gPqjWk2YnX3wz_hlK1Hs/view?usp=sharing)
 ---
 <h3><b>Connect with Me</b></h3>
 
